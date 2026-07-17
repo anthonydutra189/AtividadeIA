@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rUfb9JStzVs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anthony.dlsilva\\source\\repos\\AtividadeIA\\AtividadeIA\\AtividadeIA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anthony.dlsilva\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+  ],
+  "logs": []
+}

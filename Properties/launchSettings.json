@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AtividadeIA": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
